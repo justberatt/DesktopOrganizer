@@ -2,7 +2,9 @@
 
 A Windows app that keeps your desktop clean by sorting loose files into categorized folders — Images, PDFs, Documents, Videos, and more — with one click, or automatically as new files land.
 
-![Desktop Organizer main window](docs/screenshot.png)
+| Before — preview of what will move | After — one click later |
+|---|---|
+| ![Preview of files waiting to be organized](docs/before.png) | ![Desktop organized with success message](docs/after.png) |
 
 ## Features
 
